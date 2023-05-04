@@ -1,8 +1,8 @@
-# SAMSstudypreprocessing
+# SAMS study preprocessing - supplements
 ___
 
-# Effect of Statin Treatment on Metabolites, Lipids and Prostanoids in Patients with Statin Associated Muscle Symptoms (SAMS)
----
+## Effect of Statin Treatment on Metabolites, Lipids and Prostanoids in Patients with Statin Associated Muscle Symptoms (SAMS)
+
 
 ## Abstract
 
