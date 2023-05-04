@@ -16,7 +16,7 @@ ___
 
 ## Supplemental material
 
-The directory contains the supporting code necessary to run the analysis contained in the publication:
+The directory contains the supporting code necessary to reproduce the data preprocessing used in the publication:
 
 Timothy J. Garrett, Michelle A. Puchowicz, Qingming Dong, Gregory Farage, Richard Childress, Edwards A. Park, Joy Guingab, Claire L. Simpson , Saunak Sen, Elizabeth C. Brogdon, Logan M. Buchanan, Rajendra Raghow, Marshall B. Elam (2023) (2021) *Effect of Statin Treatment on Metabolites, Lipids and Prostanoids in Patients with Statin Associated Muscle Symptoms (SAMS) (submitted)*
 
